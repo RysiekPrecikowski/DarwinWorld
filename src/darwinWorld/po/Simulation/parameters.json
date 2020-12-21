@@ -1,0 +1,12 @@
+{
+  "width": 200,
+  "height": 200,
+  "startEnergy" : 1800,
+  "energyPerDay" : 10,
+  "grassEnergy" : 90,
+  "jungleRatio" : 0.35,
+  "grassPerDaySteppe" : 1,
+  "grassPerDayJungle" : 8,
+  "startingAnimals" : 150,
+  "delay" : 33
+}
